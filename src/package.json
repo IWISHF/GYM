@@ -1,0 +1,29 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "GYM system aim to manage gym customer, employee, coach.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IWISHF/GYM.git"
+  },
+  "keywords": [
+    "GYM",
+    "CRM"
+  ],
+  "author": "Danny.Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IWISHF/GYM/issues"
+  },
+  "homepage": "https://github.com/IWISHF/GYM#readme",
+  "devDependencies": {
+    "webpack": "^4.10.2"
+  }
+}
